@@ -1,7 +1,11 @@
 init
 status
 log
+->만일 git log 치고 :만 나오면 j는 아래로 k는 위로, q로 나갈 수 있음
 config (이메일, 유저명 등록 1회만 하면됨)
 add
 commit (-m)
 checkout
+config --list
+push (-u origin main)
+cat
