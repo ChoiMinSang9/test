@@ -9,3 +9,5 @@ checkout
 config --list
 push (-u origin main)
 cat
+pull
+fetch
